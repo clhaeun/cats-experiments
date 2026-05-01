@@ -1,0 +1,13 @@
+{
+  "task_name": "tilt_to_release_bench",
+  "instruction": "Open the storage chest in the living room and retrieve the necklace inside.",
+  "correct_tool": "technique_B",
+  "ca_tool_names": [
+    "technique_A",
+    "technique_B",
+    "technique_C",
+    "technique_D"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-04-03T16:57:18.782707"
+}

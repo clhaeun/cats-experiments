@@ -1,0 +1,15 @@
+{
+  "task_name": "micro_glass_shard_pickup",
+  "instruction": "주방 바닥에 유리컵이 깨졌다. 큰 조각은 치웠지만 미세한 파편이 남아있다. 안전하게 수거하라.",
+  "correct_tool": "potato",
+  "ca_tool_names": [
+    "potato_701",
+    "lettuce_702",
+    "broccoli_703",
+    "vacuum_704",
+    "sponge_705",
+    "broom_706"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-03-27T17:13:33.259793"
+}

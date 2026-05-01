@@ -1,0 +1,14 @@
+{
+  "task_name": "micro_glass_shard_pickup",
+  "instruction": "A glass cup broke on the kitchen floor. The large pieces have been cleared, but micro glass shards remain. Safely collect them.\nYou have five candidate tools (tool_A through tool_E) on the countertop and a carving knife (carving_knife_707) for preparation.",
+  "correct_tool": "tool_A",
+  "ca_tool_names": [
+    "tool_C",
+    "tool_D",
+    "tool_B",
+    "tool_A",
+    "tool_E"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-04-07T14:50:16.161743"
+}

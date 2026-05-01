@@ -1,0 +1,13 @@
+{
+  "task_name": "tilt_and_turn_window",
+  "instruction": "Move the small potted succulent from the inside windowsill to the exterior ledge so it gets direct sunlight.",
+  "correct_tool": "technique_B",
+  "ca_tool_names": [
+    "technique_A",
+    "technique_B",
+    "technique_C",
+    "technique_D"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-04-07T19:11:22.094184"
+}

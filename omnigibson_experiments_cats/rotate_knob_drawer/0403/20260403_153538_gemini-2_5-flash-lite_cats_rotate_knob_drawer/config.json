@@ -1,0 +1,13 @@
+{
+  "task_name": "rotate_knob_drawer",
+  "instruction": "Open the kitchen drawer and retrieve the screwdriver inside. Place it on the countertop.",
+  "correct_tool": "technique_B",
+  "ca_tool_names": [
+    "technique_A",
+    "technique_B",
+    "technique_C",
+    "technique_D"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-04-03T15:37:54.348808"
+}

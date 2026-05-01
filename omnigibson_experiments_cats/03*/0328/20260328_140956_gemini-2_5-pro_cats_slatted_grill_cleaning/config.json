@@ -1,0 +1,10 @@
+{
+  "task_name": "slatted_grill_cleaning",
+  "instruction": "A BBQ grill grate is on the kitchen countertop with sticky residue on its surface. You have a flat scraper (scraper_801). Clean the grill by placing the scraper at the front edge and pushing it forward in a single motion to the end. You must complete the cleaning in one push.\n\nYou will need to define the exact 6-DOF physical parameters (linear velocity, applied force, orientation angles) for the push.",
+  "correct_tool": "scraper",
+  "ca_tool_names": [
+    "scraper_801"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-03-28T14:19:41.516450"
+}

@@ -1,0 +1,4 @@
+file '/home/chaeun/BEHAVIOR-1K/.demos/CA_grill/Cyclist_Crosses_Train_Tracks.mp4'
+file '/home/chaeun/BEHAVIOR-1K/.demos/CA_grill/demo_keyboard_cleaning.mp4'
+file '/home/chaeun/BEHAVIOR-1K/.demos/CA_grill/demo_broom.mp4'
+file '/home/chaeun/BEHAVIOR-1K/.demos/CA_grill/demo_vacuum.mp4'

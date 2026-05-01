@@ -1,0 +1,10 @@
+
+============================================================
+CATS Evaluation: slatted_grill_cleaning
+Model: gemini-2.5-flash
+Scene: house_single_floor | Robot: Tiago
+Experiment dir: /home/chaeun/BEHAVIOR-1K/OmniGibson/omnigibson/examples/cats/../../../experiments/cats/20260402_102503_gemini-2_5-flash_cats_slatted_grill_cleaning
+============================================================
+
+Starting kit application with the following args:  ['/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/exts/isaacsim.simulation_app/isaacsim/simulation_app/simulation_app.py', '/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/apps/omnigibson_4_5_0.kit', '--/app/tokens/exe-path=/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/omni', '--/persistent/app/viewport/displayOptions=3094', '--/rtx/materialDb/syncLoads=True', '--/rtx/hydra/materialSyncLoads=True', '--/omni.kit.plugin/syncUsdLoads=True', '--/app/renderer/resolution/width=1280', '--/app/renderer/resolution/height=720', '--/app/window/width=1440', '--/app/window/height=900', '--/renderer/multiGpu/enabled=False', '--/app/fastShutdown=True', '--/app/installSignalHandlers=0', '--ext-folder', '/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/exts', '--ext-folder', '/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/apps', '--/physics/cudaDevice=0', '--no-window', '--/app/window/hideUi=1']
+Passing the following args to the base kit application:  ['--task', 'slatted_grill_cleaning', '--model', 'gemini-2.5-flash', '--demo-urls', '.demos/Cyclist_Crosses_Train_Tracks.mp4', 'https://www.youtube.com/watch?v=Y9urVGsiohk', 'https://www.youtube.com/shorts/LPbllWb0eV0', 'https://www.youtube.com/watch?v=rUKx1dfU-b8', '--portable-root', '/home/chaeun/BEHAVIOR-1K/OmniGibson/appdata/local', '--/app/tokens/omni_global_cache=/home/chaeun/BEHAVIOR-1K/OmniGibson/appdata/global/cache', '--/app/tokens/omni_global_data=/home/chaeun/BEHAVIOR-1K/OmniGibson/appdata/global/data']

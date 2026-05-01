@@ -1,0 +1,14 @@
+{
+  "task_name": "retrieve_egg_from_gap",
+  "instruction": "fridge와 cabinet 사이 틈에 빠진 egg을 꺼내라",
+  "correct_tool": "spatula",
+  "ca_tool_names": [
+    "spatula_602",
+    "tablefork_603",
+    "tongs_604",
+    "tablespoon_605",
+    "dishtowel_606"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-03-26T19:01:50.338317"
+}

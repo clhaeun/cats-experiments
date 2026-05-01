@@ -1,0 +1,15 @@
+{
+  "task_name": "micro_glass_shard_pickup",
+  "instruction": "A glass cup broke on the kitchen floor. The large pieces have been cleared, but micro glass shards remain. Safely collect them.",
+  "correct_tool": "potato",
+  "ca_tool_names": [
+    "sponge_705",
+    "broccoli_703",
+    "vacuum_704",
+    "lettuce_702",
+    "potato_701",
+    "broom_706"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-03-28T15:16:43.509885"
+}

@@ -1,0 +1,10 @@
+
+============================================================
+CATS Evaluation: rotate_knob_drawer
+Model: o1
+Scene: house_single_floor | Robot: Tiago
+Experiment dir: /home/chaeun/BEHAVIOR-1K/OmniGibson/omnigibson/examples/cats/../../../experiments/cats/20260403_154758_o1_cats_rotate_knob_drawer
+============================================================
+
+Starting kit application with the following args:  ['/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/exts/isaacsim.simulation_app/isaacsim/simulation_app/simulation_app.py', '/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/apps/omnigibson_4_5_0.kit', '--/app/tokens/exe-path=/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/omni', '--/persistent/app/viewport/displayOptions=3094', '--/rtx/materialDb/syncLoads=True', '--/rtx/hydra/materialSyncLoads=True', '--/omni.kit.plugin/syncUsdLoads=True', '--/app/renderer/resolution/width=1280', '--/app/renderer/resolution/height=720', '--/app/window/width=1440', '--/app/window/height=900', '--/renderer/multiGpu/enabled=False', '--/app/fastShutdown=True', '--/app/installSignalHandlers=0', '--ext-folder', '/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/exts', '--ext-folder', '/home/chaeun/miniconda3/envs/behavior/lib/python3.10/site-packages/isaacsim/apps', '--/physics/cudaDevice=0']
+Passing the following args to the base kit application:  ['--model', 'o1', '--task', 'rotate_knob_drawer', '--portable-root', '/home/chaeun/BEHAVIOR-1K/OmniGibson/appdata/local', '--/app/tokens/omni_global_cache=/home/chaeun/BEHAVIOR-1K/OmniGibson/appdata/global/cache', '--/app/tokens/omni_global_data=/home/chaeun/BEHAVIOR-1K/OmniGibson/appdata/global/data']

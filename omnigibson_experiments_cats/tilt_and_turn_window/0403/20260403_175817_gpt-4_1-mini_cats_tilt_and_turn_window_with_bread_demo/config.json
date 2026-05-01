@@ -1,0 +1,13 @@
+{
+  "task_name": "tilt_and_turn_window",
+  "instruction": "Open the bedroom window for ventilation without disturbing the items on the table in front of it.",
+  "correct_tool": "technique_B",
+  "ca_tool_names": [
+    "technique_A",
+    "technique_B",
+    "technique_C",
+    "technique_D"
+  ],
+  "max_exploration_steps": 10,
+  "timestamp": "2026-04-03T18:00:37.826349"
+}

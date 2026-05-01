@@ -1,0 +1,4 @@
+file '/home/chaeun/BEHAVIOR-1K/.demos/Cyclist_Crosses_Train_Tracks.mp4'
+file '/home/chaeun/BEHAVIOR-1K/OmniGibson/experiments/cats/20260402_102503_gemini-2_5-flash_cats_slatted_grill_cleaning/_demo_videos/demo_00.mp4'
+file '/home/chaeun/BEHAVIOR-1K/OmniGibson/experiments/cats/20260402_102503_gemini-2_5-flash_cats_slatted_grill_cleaning/_demo_videos/demo_01.mp4'
+file '/home/chaeun/BEHAVIOR-1K/OmniGibson/experiments/cats/20260402_102503_gemini-2_5-flash_cats_slatted_grill_cleaning/_demo_videos/demo_02.mp4'
